@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Mouse Wait Classification>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<This thesis describes an study of machine learning and its application to mouse wait time in computers. Specifically, we are building a classification model of mouse wait time based on dynamic and static system information within the 2020 time interval to classify if a mouse wait event would last within 0-5 secs, 5-10 secs, or 10+ secs. Dynamic system information, such as CPU utilization, is subject to the configuration of each system. Therefore, by incorporating static system information which includes the computer configuration of each system into the model, we could significantly improve the accuracy of the prediction. Currently, the model reaches an accuracy of 70\% with Decision Tree Classifier.  >
